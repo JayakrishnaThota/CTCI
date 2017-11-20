@@ -1,0 +1,6 @@
+public boolean isUnique(String s){
+  boolean[] map = new boolean[128];
+  for(char c: s.toCharArray()){
+    map[c-]
+  }
+}
