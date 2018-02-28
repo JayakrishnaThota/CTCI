@@ -1,5 +1,7 @@
-import java.util.*;
+//Follow up still to do
+//Pop(int x) 
 
+import java.util.*;
 public class StackOfPlates {
 
     List<Stack> list;
