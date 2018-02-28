@@ -1,3 +1,3 @@
 # CTCI
 
-My solutions to CTCI problems
+My solutions to CTCI problems in Java
