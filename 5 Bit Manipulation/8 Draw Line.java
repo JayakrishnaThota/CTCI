@@ -1,4 +1,4 @@
-public class DrawLine{
+public class DrawLine {
     
 	public static int computeByteNum(int width, int x, int y) {
 		return (width * y + x) / 8;
