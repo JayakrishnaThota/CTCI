@@ -1,6 +1,5 @@
 import java.util.*;
 public class TripleStep {
-
     //O(n) time and O(n) Space
     public int countWays(int n){
         if(n<0) return 0;
